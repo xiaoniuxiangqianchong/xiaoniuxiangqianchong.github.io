@@ -2,7 +2,7 @@
 ---
 # **Linux**
 
-+ [Command](https://github.com/xiaoniuxiangqianchong/bigdata)
++ [Command](https://github.com/xiaoniuxiangqianchong/bigdata/blob/master/Command.md)
 
 + [Sed](https://github.com/xiaoniuxiangqianchong/bigdata/blob/master/Sed.md)	
 
